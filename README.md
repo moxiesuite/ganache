@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://github.com/trufflesuite/ganache/blob/develop/resources/icons/png/128x128.png?raw=true")
+  <img src="https://github.com/moxiesuite/ganache/blob/develop/resources/icons/png/128x128.png?raw=true")
 </p>
 
 ## Ganache
 
-Ganache is your personal blockchain for Ethereum development. 
+Ganache is your personal blockchain for Ethereum development.
+Moxiesuite Ganache is moving to https://github.com/moxiesuite/moonrock
 
 <p align="center">
   <img src="https://github.com/trufflesuite/ganache/blob/develop/.github/images/ganache_screenshot.jpg?raw=true"/>
